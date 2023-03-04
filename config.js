@@ -7,7 +7,7 @@ const CONFIG = {
     desc: 'Mà đố em, anh định nói gì đấy? 😉 ',
     btnYes: 'Uhm, để em đoán thử ',
     btnNo: 'Không biết, em đoán không ra...',
-    question:'Nhắm mắt lại và nghĩ vễ điều mình mong muốn lúc này!',
+    question:'Nhắm mắt lại và nghĩ về điều mình mong muốn lúc này!',
     reasonPlaceholder: 'Và gõ vào đây những gì mình nghĩ vào đây nha',
     btnReply: 'Send',
     reply: 'Hi, em! Sinh nhật tuổi 22 rồi ấy, anh không biết làm sao, nhờ gió gửi lời chúc dến em. Chúc em tuổi mới luôn mỉm cười tươi như đóa hoa ngày xuân, rạng ngời như ánh dương mùa hạ, luôn chan hòa em đềm như nước mùa thu và luôn có ánh lửa hồng của riêng mình sưởi ấm đêm đông lạnh gió. Quan trọng nhất là tràn đầy năng lượng vượt qua khó khăn trong cuộc sống. Sinh nhật thật vui em nhé🥳',
